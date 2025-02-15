@@ -1,60 +1,60 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Macto - Marketing Campaign Tool
 
-## Getting Started
+Macto é uma ferramenta open source para controle de campanhas de marketing, permitindo a gestão, análise e otimização de campanhas em um só lugar. O objetivo do Macto é oferecer uma solução eficiente para profissionais de marketing digital acompanharem métricas, criarem estratégias e melhorarem seus resultados.
 
-First, run the development server:
+## 🚀 Funcionalidades
+
+<!-- - 📊 **Dashboard intuitiva** com métricas essenciais
+- 🔍 **Monitoramento de campanhas** em tempo real
+- 🔄 **Integração com diversas plataformas de anúncios**
+- 📅 **Gerenciamento de cronogramas e tarefas**
+- 📈 **Relatórios automatizados** com insights para otimização
+- 🛠️ **API para integração com outras ferramentas** -->
+
+## 📦 Tecnologias Utilizadas
+
+- [Next.js](https://nextjs.org) - Framework React para aplicações web
+- [TypeScript](https://www.typescriptlang.org) - Tipagem estática para JavaScript
+- [Tailwind CSS](https://tailwindcss.com) - Estilização moderna e eficiente
+
+## 📖 Instalação e Uso
+
+Para rodar o projeto localmente, siga os passos abaixo:
 
 ```bash
+# Clone o repositório
+git clone https://github.com/viniciusfreitasdev/macto.git
+cd macto
+
+# Instale as dependências
+npm install
+# ou
+yarn install
+# ou
+pnpm install
+
+# Configure o ambiente (adicione um arquivo .env baseado no .env.example)
+
+# Inicie o servidor de desenvolvimento
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Acesse [http://localhost:3000](http://localhost:3000) para visualizar a aplicação.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## 🤝 Contribuição
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+Contribuições são bem-vindas! Para contribuir:
 
-## Learn More
+1. Faça um fork do repositório
+2. Crie uma branch para sua feature ou correção (`git checkout -b minha-feature`)
+3. Faça o commit das alterações (`git commit -m 'Adiciona nova feature'`)
+4. Envie para o repositório remoto (`git push origin minha-feature`)
+5. Abra um Pull Request
 
-To learn more about Next.js, take a look at the following resources:
+## 📜 Licença
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
-
+Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
 ---
-MIT License
 
-Copyright (c) 2025 Vinicius Freitas
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+Desenvolvido por [Vinicius Freitas](https://github.com/viniciusfreitasdev/macto).
