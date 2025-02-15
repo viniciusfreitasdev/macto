@@ -1,4 +1,4 @@
-# Macto - Marketing Campaign Tool
+# Macto - Marketing Campaign Tool Open Source
 
 Macto é uma ferramenta open source para controle de campanhas de marketing, permitindo a gestão, análise e otimização de campanhas em um só lugar. O objetivo do Macto é oferecer uma solução eficiente para profissionais de marketing digital acompanharem métricas, criarem estratégias e melhorarem seus resultados.
 
