@@ -1,60 +1,51 @@
 # Macto - Marketing Campaign Tool
 
-Macto é uma ferramenta open source para controle de campanhas de marketing, permitindo a gestão, análise e otimização de campanhas em um só lugar. O objetivo do Macto é oferecer uma solução eficiente para profissionais de marketing digital acompanharem métricas, criarem estratégias e melhorarem seus resultados.
+Macto is an open-source tool for managing marketing campaigns, enabling management, analysis, and optimization in one place. The goal of Macto is to provide an efficient solution for digital marketing professionals to track metrics, create strategies, and improve their results.
 
-<!-- ## 🚀 Funcionalidades -->
+## 📦 Technologies Used
 
-<!-- - 📊 **Dashboard intuitiva** com métricas essenciais
-- 🔍 **Monitoramento de campanhas** em tempo real
-- 🔄 **Integração com diversas plataformas de anúncios**
-- 📅 **Gerenciamento de cronogramas e tarefas**
-- 📈 **Relatórios automatizados** com insights para otimização
-- 🛠️ **API para integração com outras ferramentas** -->
+- [Next.js](https://nextjs.org) - React framework for web applications
+- [TypeScript](https://www.typescriptlang.org) - Static typing for JavaScript
+- [Tailwind CSS](https://tailwindcss.com) - Modern and efficient styling
 
-## 📦 Tecnologias Utilizadas
+## 📖 Installation and Usage
 
-- [Next.js](https://nextjs.org) - Framework React para aplicações web
-- [TypeScript](https://www.typescriptlang.org) - Tipagem estática para JavaScript
-- [Tailwind CSS](https://tailwindcss.com) - Estilização moderna e eficiente
-
-## 📖 Instalação e Uso
-
-Para rodar o projeto localmente, siga os passos abaixo:
+To run the project locally, follow the steps below:
 
 ```bash
-# Clone o repositório
+# Clone the repository
 git clone https://github.com/viniciusfreitasdev/macto.git
 cd macto
 
-# Instale as dependências
+# Install dependencies
 npm install
-# ou
+# or
 yarn install
-# ou
+# or
 pnpm install
 
-# Configure o ambiente (adicione um arquivo .env baseado no .env.example)
+# Configure the environment (add a .env file based on .env.example)
 
-# Inicie o servidor de desenvolvimento
+# Start the development server
 npm run dev
 ```
 
-Acesse [http://localhost:3000](http://localhost:3000) para visualizar a aplicação.
+Access [http://localhost:3000](http://localhost:3000) to view the application.
 
-## 🤝 Contribuição
+## 🤝 Contribution
 
-Contribuições são bem-vindas! Para contribuir:
+Contributions are welcome! To contribute:
 
-1. Faça um fork do repositório
-2. Crie uma branch para sua feature ou correção (`git checkout -b minha-feature`)
-3. Faça o commit das alterações (`git commit -m 'Adiciona nova feature'`)
-4. Envie para o repositório remoto (`git push origin minha-feature`)
-5. Abra um Pull Request
+1. Fork the repository
+2. Create a branch for your feature or fix (`git checkout -b my-feature`)
+3. Commit your changes (`git commit -m 'Add new feature'`)
+4. Push to the remote repository (`git push origin my-feature`)
+5. Open a Pull Request
 
-## 📜 Licença
+## 📜 License
 
-Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 ---
 
-Desenvolvido por [Vinicius Freitas](https://github.com/viniciusfreitasdev/macto).
+Developed by [Vinicius Freitas](https://github.com/viniciusfreitasdev/macto).
