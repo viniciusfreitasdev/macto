@@ -48,4 +48,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ---
 
-Developed by [Vinicius Freitas](https://github.com/viniciusfreitasdev/macto).
+Developed by [Vinicius Freitas](https://github.com/viniciusfreitasdev/macto) e [Felipe Santana](https://github.com/FelipeThiagoSantana).
